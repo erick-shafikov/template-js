@@ -1,3 +1,3 @@
-export default function func() {
+export function func() {
   console.log('3');
 }

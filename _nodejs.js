@@ -1,3 +1,4 @@
+//для ввода из стандартного потока
 const readline = require('readline');
 
 const rl = readline.createInterface({
